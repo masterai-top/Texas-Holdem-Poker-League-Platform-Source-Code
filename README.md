@@ -1,5 +1,5 @@
-德州金币大厅源码，德州竞技者联盟模式代码，里面多个德州游戏，AOF，短牌，竞技场，私人局私人场，比赛场；线上成熟产品，可以上架ios和googlePlay；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
-![私人房2 (2)](https://github.com/user-attachments/assets/0953c0dc-f7d1-4d80-a758-1ce4640ccb08)
+德州金币大厅源码，H5德州，web德州源码，德州竞技者联盟模式代码，里面多个德州游戏，AOF，短牌，竞技场，私人局私人场，比赛场；线上成熟产品，可以上架ios和googlePlay；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
+
 ![商场3](https://github.com/user-attachments/assets/8e741710-386a-49cc-b135-b22f25019cfc)
 ![牌桌-胜利提示](https://github.com/user-attachments/assets/85fa8276-73bd-4d6c-8c9d-5f95e301d320)
 ![牌桌-打赏](https://github.com/user-attachments/assets/662bd77a-b06f-448f-ad2d-fc715aa941a3)
@@ -25,3 +25,4 @@
 ![04](https://github.com/user-attachments/assets/f0ff46f4-dff2-41d6-97b1-0ef8ff35f551)
 ![03](https://github.com/user-attachments/assets/214197c0-665d-4e6c-b945-c2a1bff415c7)
 ![img_v3_02ib_90e51d59-4e99-48d4-b694-c7b11efcbb4g](https://github.com/user-attachments/assets/ed22bd90-a854-49f8-99fc-4dd1e11536a2)
+
