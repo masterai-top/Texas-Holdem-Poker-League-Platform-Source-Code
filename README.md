@@ -1,4 +1,4 @@
-🔥 Commercial Texas Hold’em Poker Platform Source Code | Ready to Launch | High Profit System
+🔥 Commercial Texas Hold’em Poker Platform | Ready to Launch | Club + AI + Tournament | High Profit System
 # 🎰 德州扑克完整运营级源码 | Texas Hold'em Complete Game Source Code| 德州扑克完整解决方案 
 
 > **线上成功运营产品 | 6种玩法+10+运营活动 | 支持iOS/Google Play上架**
@@ -104,7 +104,7 @@ Including multiplayer real-time engine, AI system, club & tournament system
 
 
 ## 🎥 Live Demo | 演示 | 演示
-
+https://your-video-link
 Watch real gameplay below 👇  
 查看真实游戏演示 👇  
 查看真實遊戲演示 👇  
