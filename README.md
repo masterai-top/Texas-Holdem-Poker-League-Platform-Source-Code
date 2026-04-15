@@ -104,7 +104,7 @@ Including multiplayer real-time engine, AI system, club & tournament system
 
 
 ## 🎥 Live Demo | 演示 | 演示
-https://your-video-link
+
 Watch real gameplay below 👇  
 查看真实游戏演示 👇  
 查看真實遊戲演示 👇  
@@ -142,14 +142,6 @@ Watch real gameplay below 👇
 ## 🔑 Keywords
 
 Texas Holdem, Poker Game, Poker Server, Poker AI, Poker Source Code, Online Poker Platform
-
-
-
-
-
-德州金币大厅源码，H5德州，web德州源码，德州竞技者联盟模式代码，里面多个德州游戏，AOF，短牌，竞技场，私人局私人场，比赛场；线上成熟产品，可以上架ios和googlePlay；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
-
-
 
 
 
