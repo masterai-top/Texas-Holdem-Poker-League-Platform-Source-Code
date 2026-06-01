@@ -1,5 +1,5 @@
 🔥 Commercial Texas Hold’em Poker Platform | Ready to Launch | Club + AI + Tournament | High Profit System
-# 🎰 德州源码 | 德州扑克完整运营级源码 | Texas Hold'em Complete Game Source Code| 德州源碼|德州撲克|德州俱樂部|德州扑克完整解决方案 
+# 🎰 德州源码 | 德州大厅源码|德州扑克完整运营级源码 | Texas Hold'em Complete Game Source Code| 德州源碼|德州撲克|德州俱樂部|德州扑克完整解决方案 
 
 > **线上成功运营产品 | 6种玩法+10+运营活动 | 支持iOS/Google Play上架**
 
