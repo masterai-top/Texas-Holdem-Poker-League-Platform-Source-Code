@@ -40,6 +40,7 @@ include /home/tarsproto/XGame/protocols/protocols.mk
 include /home/tarsproto/XGame/ConfigServer/ConfigServer.mk
 include /home/tarsproto/XGame/DBAgentServer/DBAgentServer.mk
 include /home/tarsproto/XGame/Log2DBServer/Log2DBServer.mk
+include /home/tarsproto/XGame/OrderServer/OrderServer.mk
 include /usr/local/tars/cpp/makefile/makefile.tars
 
 #-----------------------------------------------------------------------
