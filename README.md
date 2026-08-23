@@ -31,9 +31,7 @@ This is a production-ready Texas Hold’em poker platform source code
 包含即時多人對戰、AI系統、俱樂部與錦標賽系統  
 Including multiplayer real-time engine, AI system, club & tournament system  
 
-👉 可直接商业化运营  
-👉 可直接商業化運營  
-👉 Ready for commercial use  
+
 
 ## ✨ 核心功能 | Core Features
 
@@ -78,18 +76,11 @@ Including multiplayer real-time engine, AI system, club & tournament system
 - 支援多人即時對戰  
 - 俱樂部 + 代理系統  
 - 可部署與客製化  
-## 💰 获取源码 | Contact
-
-✅ 完整服务端源码  
-✅ 完整客户端源码  
-✅ 数据库脚本  
-✅ 美术资源  
-✅ 部署文档  
+## 💰 问题反馈与交流
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 + 详细报价**
 
 ---
 ## ✨ Key Features 
