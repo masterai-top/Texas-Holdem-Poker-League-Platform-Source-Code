@@ -1,54 +1,62 @@
-🔥 Commercial Texas Hold’em Poker Platform | Ready to Launch | Club + AI + Tournament | High Profit System
-# 🎰Texas Hold'em Complete Game Source Code| 德州源码 | 德州大厅源码|德州扑克完整运营级源码 |  德州源碼|德州撲克|德州俱樂部|德州扑克完整解决方案 
+# 德州扑克联赛平台完整源码（Unity + C++）
 
-> **线上成功运营产品 | 6种玩法+10+运营活动 | 支持iOS/Google Play上架**
+[![平台](https://img.shields.io/badge/客户端-Unity%20%2F%20Cocos%20iOS%2FAndroid-green)]()
+[![后端](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
+[![数据库](https://img.shields.io/badge/数据库-MySQL%20%2B%20Redis-blue)]()
+[![许可证](https://img.shields.io/badge/许可证-专有软件-orange)]()
 
-[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
-[![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android%20%7C%20H5-green)]()
-[![License](https://img.shields.io/badge/授权-商业源码-red)]()
+---
 
-💡 Build your own poker platform in minutes  
-💡 快速搭建你的德州扑克平台  
-💡 快速建立你的德州撲克平台  
+## 项目概述
 
-🔥 Online Multiplayer Poker System  
-🔥 Club System + Agent System  
-🔥 Real-Time Gameplay + Full Source Code  
+这是一套**完整的德州扑克联赛平台源码**，包含 **Unity/Cocos 客户端**与 **C++ 高性能服务端**，支持多人实时对战、俱乐部系统、、MTT/SNG 锦标赛及完整的运营后台。
 
-👉 🚀 Live Demo Available  
-👉 📩 Contact Now for Full Version  
-💰 Launch your own poker business  
-💰 Start your poker platform today  
-💰 Launch your poker business today  
-💰 Start earning with your own poker platform  
-## 🚀 项目介绍 / 專案介紹 / Project Overview
+> **技术亮点**：线上成功运营产品 | 6 种玩法 + 10+ 运营活动 | 支持 iOS / Android / H5 多端 | 可直接部署上架
 
-本项目是一套完整的德州扑克平台系统源码  
-本專案是一套完整的德州撲克平台系統原始碼  
-This is a production-ready Texas Hold’em poker platform source code  
+---
 
-包含多人实时对战、AI系统、俱乐部与比赛系统  
-包含即時多人對戰、AI系統、俱樂部與錦標賽系統  
-Including multiplayer real-time engine, AI system, club & tournament system  
+## 核心功能
 
-
-
-## ✨ 核心功能 | Core Features
-
-| 模块 | 功能说明 |
+| 分类 | 功能列表 |
 | :--- | :--- |
-| 🎮 **多种玩法** | 经典德州、AOF、6+短牌、SNG、MTT、俱乐部 |
-| 👥 **社交系统** | 朋友局、俱乐部、竞技者联盟、好友、邮件 |
-| 🎁 **运营活动** | 每日登录、任务、JackPot、刮刮乐、转盘、邀请好友、看广告 |
-| 🏪 **商城系统** | 道具购买、宝箱、排行榜、保险箱 |
-| 📱 **多端支持** | iOS App、Android App、H5、Web |
+| **游戏模式** | 经典德州扑克、AOF、6+短牌、SNG、MTT、俱乐部模式 |
+| **社交体系** | 朋友局、俱乐部系统、竞技者联盟、好友系统、邮件系统 |
+| **运营活动** | 每日登录、任务系统、JackPot、刮刮乐、转盘抽奖、邀请好友、看广告 |
+| **商城系统** | 道具购买、宝箱系统、排行榜、保险箱 |
+| **多端支持** | iOS App、Android App、H5、Web |
 
-## 🎯 功能清单 | Feature List
-✅ 金币大厅 ✅ 竞技场 ✅ 联盟模式
-✅ 保险系统 ✅ 战绩统计 ✅ FB分享
-✅ 免费广告 ✅ 转盘抽奖 ✅ 刮刮乐彩票
+---
 
+## 功能清单
 
+- ✅ 金币大厅
+- ✅ 竞技场
+- ✅ 联盟模式
+- ✅ 保险系统
+- ✅ 战绩统计
+- ✅ FB 分享
+- ✅ 免费广告
+- ✅ 转盘抽奖
+- ✅ 刮刮乐彩票
+
+---
+
+## 技术栈
+
+| 组件 | 技术选型 |
+| :--- | :--- |
+| **客户端** | Unity / Cocos —— 支持 iOS / Android / H5 |
+| **服务端** | C++ —— 高性能、高并发 |
+| **数据库** | MySQL + Redis |
+| **通信协议** | 私有加密协议 |
+
+---
+
+## 系统架构
+
+- **客户端 ↔ 服务端**：基于私有加密协议实时通信
+- **服务端 ↔ 数据库**：MySQL 持久化存储，Redis 缓存与会话管理
+- **部署方式**：支持云服务器或物理机部署，可直接上线运营
 ## 🚀 技术架构 | Tech Stack
 
 - **服务端**：C++ (稳定高效)
@@ -76,7 +84,7 @@ Including multiplayer real-time engine, AI system, club & tournament system
 - 支援多人即時對戰  
 - 俱樂部 + 代理系統  
 - 可部署與客製化  
-## 💰 问题反馈与交流
+## 💰 联系与咨询
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
