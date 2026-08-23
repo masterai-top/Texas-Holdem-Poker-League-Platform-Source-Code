@@ -1,4 +1,4 @@
-# 德州扑克联赛平台完整源码（Unity + C++）
+# 德州扑克平台完整源码（Unity + C++）
 
 [![平台](https://img.shields.io/badge/客户端-Unity%20%2F%20Cocos%20iOS%2FAndroid-green)]()
 [![后端](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
