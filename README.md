@@ -1,5 +1,4 @@
-# 德州扑克平台完整源码|德州源码（Unity + C++）
-
+# 德州源码：C++ 德州扑克联盟与赛事平台平台完整源码
 [![平台](https://img.shields.io/badge/客户端-Unity%20%2F%20Cocos%20iOS%2FAndroid-green)]()
 [![后端](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
 [![数据库](https://img.shields.io/badge/数据库-MySQL%20%2B%20Redis-blue)]()
@@ -64,6 +63,23 @@
 - **数据库**：MySQL + Redis
 - **通信**：私有加密协议
 
+## 服务说明
+
+### 登录服务
+
+`LoginProto.tars`、`LoginServant.tars`、`LoginServantImp.cpp` 和 `LoginServer.cpp` 是登录协议及服务入口。
+
+### 比赛与排行榜
+
+`MatchProto.tars`、`MatchServant.tars`、`MatchServantImp.cpp` 和 `MatchServer.cpp` 提供赛事与匹配相关入口；`RankProto.tars` 提供排行榜协议定义。
+
+### GM 与全局服务
+
+GM 模块提供管理接口，全局模块承载共享业务。公开文档应说明接口权限、调用方和审计要求，避免将内部管理接口暴露到公网。
+
+### 订单与数据库
+
+订单模块包含协议、服务实现和配置；`DBOperator.cpp` 提供数据库操作入口。涉及订单和账号的数据需要事务、幂等、权限、日志脱敏和安全审计。
 
 ## 💰 联系与咨询
 
@@ -116,6 +132,16 @@ Watch real gameplay below 👇
 
 ![Stars](https://img.shields.io/github/stars/masterai-top/TexasHoldem-Poker-Multiplayer-Source-Code-Pro?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/masterai-top/TexasHoldem-Poker-Multiplayer-Source-Code-Pro)
+
+## 文档导航
+
+- [德州扑克联盟源码说明](./docs/texas-holdem-league-source-code.md)
+- [服务端模块架构](./docs/server-architecture.md)
+- [构建与配置指南](./docs/build-guide.md)
+- [比赛、排行榜与房间流程](./docs/match-rank-room-flow.md)
+- [Tars 协议与服务](./docs/tars-service-guide.md)
+- [订单、数据库与安全](./docs/security-compliance.md)
+- [常见问题](./docs/faq.md)
 
 ⭐ Star 这个仓库，支持优质德州源码持续分享！
 
