@@ -1,4 +1,4 @@
-# 德州扑克平台完整源码（Unity + C++）
+# 德州扑克平台完整源码|德州源码（Unity + C++）
 
 [![平台](https://img.shields.io/badge/客户端-Unity%20%2F%20Cocos%20iOS%2FAndroid-green)]()
 [![后端](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
@@ -65,25 +65,6 @@
 - **通信**：私有加密协议
 
 
-## 🚀 What You Get | 你将获得 |
-
-### 🇺🇸 English
-- Full Texas Holdem poker system  
-- Multiplayer real-time gameplay  
-- Club system + agent system  
-- Ready for deployment & customization  
-
-### 🇨🇳 简体中文
-- 完整德州扑克系统源码  
-- 支持多人实时对战  
-- 俱乐部 + 代理体系  
-- 可直接部署或二次开发  
-
-### 🇹🇼 繁體中文
-- 完整德州撲克系統源碼  
-- 支援多人即時對戰  
-- 俱樂部 + 代理系統  
-- 可部署與客製化  
 ## 💰 联系与咨询
 
 📱 **Telegram：@xuzongbin001**  
