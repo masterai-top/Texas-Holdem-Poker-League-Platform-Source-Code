@@ -1,0 +1,187 @@
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+
+# Texas Holdem Poker League and Tournament Platform|Texas Hold'em
+
+[![Platform](https://img.shields.io/badge/客户端-Unity%20%2F%20Cocos%20iOS%2FAndroid-green)]()
+[![Backend](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
+[![Database](https://img.shields.io/badge/数据库-MySQL%20%2B%20Redis-blue)]()
+[![License](https://img.shields.io/badge/许可证-专有软件-orange)]()
+
+
+---
+
+
+## Project Overview
+
+
+This is a **complete source code package for a Texas Hold'em league platform**, featuring **Unity/Cocos clients** and a **high-performance C++ server**. It supports real-time multiplayer gameplay, a club system, MTT/SNG tournaments, and a comprehensive operations backend.
+> **Technical Highlights**: Product successfully operated online | 6 gameplay modes + 10+ operational events | Multi-platform support (iOS / Android / H5) | Ready for immediate deployment and launch
+
+
+---
+
+
+## Core Features
+
+
+| Category | Feature List |
+| :--- | :--- |
+| **Game Modes** | Classic Texas Hold'em, AOF, 6+ Short Deck, SNG, MTT, Club Mode |
+| **Social System** | Private Games, Club System, Competitive Leagues, Friends System, Mail System |
+| **Operational Events** | Daily Login, Task System, Jackpot, Scratch Cards, Lucky Wheel, Invite Friends, Ad Viewing |
+| **Store System** | Item Purchases, Chest System, Leaderboards, Safe/Vault |
+| **Multi-platform Support** | iOS App, Android App, H5, Web |
+
+
+---
+
+
+## Feature Checklist
+
+
+- ✅ Gold Coin Lobby
+- ✅ Arena
+- ✅ League Mode
+- ✅ Insurance System
+- ✅ Game Statistics
+- ✅ Facebook Sharing
+- ✅ Free Ad Rewards
+- ✅ Lucky Wheel
+- ✅ Scratch Card Lottery
+
+
+---
+
+
+## Tech Stack
+
+
+| Component | Technology Choice |
+| :--- | :--- |
+| **Client-side** | Unity / Cocos — Supports iOS / Android / H5 |
+| **Server-side** | C++ — High performance, high concurrency |
+| **Database** | MySQL + Redis |
+| **Communication Protocol** | Proprietary encrypted protocol |
+
+
+---
+
+
+## System Architecture
+
+
+- **Client ↔ Server**: Real-time communication via proprietary encrypted protocol
+- **Server ↔ Database**: MySQL for persistent storage; Redis for caching and session management
+- **Deployment**: Supports cloud servers or physical machines; ready for immediate live operation
+## 🚀 Technical Architecture | Tech Stack
+
+
+- **Server-side**: C++ (Stable and efficient)
+- **Client-side**: Unity / Cocos (Supports iOS/Android)
+- **Database**: MySQL + Redis
+- **Communication**: Proprietary encrypted protocol
+
+
+## Service Details
+
+
+###
+Login Services
+
+
+`LoginProto.tars`, `LoginServant.tars`, `LoginServantImp.cpp`, and `LoginServer.cpp` serve as the entry points for login protocols and services.
+
+
+### Competitions and Leaderboards
+
+
+`MatchProto.tars`, `MatchServant.tars`, `MatchServantImp.cpp`, and `MatchServer.cpp` provide access to tournament and matchmaking functions; `RankProto.tars` defines the leaderboard protocols.
+
+
+### GM and Global Services
+
+
+The GM module provides administrative interfaces, while the global module handles shared business logic.
+Public documentation must specify interface permissions, authorized callers, and audit requirements to prevent exposing internal management interfaces to the public network.
+
+
+### Orders and Databases
+
+
+The order module encompasses protocols, service implementations, and configurations;
+`DBOperator.cpp` provides the entry point for database operations. Data related to orders and accounts requires transaction support, idempotency, access controls, log data masking, and security auditing.
+
+
+## 💰 Contact & Inquiries
+
+
+📱 **Telegram: @xuzongbin001**
+📧 **Email: masterai918@gmail.com**
+
+
+---
+## ✨ Key Features
+
+
+- 🧑‍🤝‍🧑 Multiplayer Poker
+- 🏆 Club System
+- 🧩 Agent System
+- ⚡ Real-time Gameplay
+- 🌐 Online Server
+- 🔧 Customizable (Supports further development)
+
+
+## 🎥 Live Demo
+
+
+Watch real gameplay below 👇
+View the real game demo 👇
+View the real game demo 👇
+![牌桌-胜利提示](https://github.com/user-attachments/assets/85fa8276-73bd-4d6c-8c9d-5f95e301d320)
+![牌桌-打赏](https://github.com/user-attachments/assets/662bd77a-b06f-448f-ad2d-fc715aa941a3)
+![排行榜2](https://github.com/user-attachments/assets/a1c9edd5-7b28-49dc-92c2-ad8afa34a9e3)
+![联赛02](https://github.com/user-attachments/assets/077edc95-254e-4db1-9f2c-f24dfec7fb6b)
+![俱乐部12](https://github.com/user-attachments/assets/3cb2d5b1-5472-427d-91e3-5e98e70e5dc5)
+![俱乐部08](https://github.com/user-attachments/assets/6b5eca86-9bf3-4b36-8ebf-97d7cf8ff587)
+![俱乐部04](https://github.com/user-attachments/assets/c82bef09-3133-4f15-ab20-4a2e1061ec8e)
+![经典德州-02](https://github.com/user-attachments/assets/75284511-e0b0-4144-aeb6-d251bd917952)
+![经典德州-01](https://github.com/user-attachments/assets/5017cd0b-8945-4491-9644-88d7d7495289)
+![滚轮赛2](https://github.com/user-attachments/assets/f10dcc50-5368-4af7-874b-97bb8bda5ea3)
+![刮刮乐04](https://github.com/user-attachments/assets/7f18a2ed-24ac-4f78-8712-e05748339224)
+![多座竞标赛8](https://github.com/user-attachments/assets/abe69ec3-ae8b-4cce-abc3-ab8b27c0e187)
+![多座竞标赛5](https://github.com/user-attachments/assets/70c6aff3-f1c6-494d-b272-84fd26cc5902)
+![多座竞标赛1](https://github.com/user-attachments/assets/eba51c1a-7c2c-4383-af93-22fb730262d1)
+![德州-经典](https://github.com/user-attachments/assets/186c194b-f9f3-4ad7-9782-177edb94654f)
+![大转盘01 (1)](https://github.com/user-attachments/assets/72d5345d-2c84-44a8-90e4-de194696b49d)
+![大厅1](https://github.com/user-attachments/assets/7fc17cb7-0e82-477d-beee-04060de8ff9f)
+![大厅01](https://github.com/user-attachments/assets/f86878d0-f749-4f91-9b65-79e1dd5c6223)
+![sng06](https://github.com/user-attachments/assets/a112d722-5aee-4ea7-b37e-3f32e5808c67)
+![06](https://github.com/user-attachments/assets/ec4e5997-49b8-42f2-96f3-091a31520ada)
+
+
+![04](https://github.com/user-attachments/assets/f0ff46f4-dff2-41d6-97b1-0ef8ff35f551)
+![03](https://github.com/user-attachments/assets/214197c0-665d-4e6c-b945-c2a1bff415c7)
+![img_v3_02ib_90e51d59-4e99-48d4-b694-c7b11efcbb4g](https://github.com/user-attachments/assets/ed22bd90-a854-49f8-99fc-4dd1e11536a2)
+
+
+![Stars](https://img.shields.io/github/stars/masterai-top/TexasHoldem-Poker-Multiplayer-Source-Code-Pro?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/masterai-top/TexasHoldem-Poker-Multiplayer-Source-Code-Pro)
+## Documentation Navigation
+
+
+- [Texas Hold'em League Source Code Overview](./docs/texas-holdem-league-source-code.md)
+- [Server-Side Module Architecture](./docs/server-architecture.md)
+- [Build and Configuration Guide](./docs/build-guide.md)
+- [Match, Leaderboard, and Room Workflows](./docs/match-rank-room-flow.md)
+- [Tars Protocols and Services](./docs/tars-service-guide.md)
+- [Orders, Database, and Security](./docs/security-compliance.md)
+- [FAQ](./docs/faq.md)
+
+
+⭐ Star this repository to support the continued sharing of high-quality Texas Hold'em source code!
+
+
+## 🔑 Keywords
+
+
+Texas Hold'em, Poker Game, Poker Server, Poker AI, Poker Source Code, Online Poker Platform
