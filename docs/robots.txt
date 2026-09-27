@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://masterai-top.github.io/Texas-Holdem-Poker-League-Platform-Source-Code/sitemap.xml
